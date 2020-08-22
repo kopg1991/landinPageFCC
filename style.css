@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+
+.a-1 .nav-link  { 
+    background-color:#00adb5 ;
+    color: #eeeeee;
+}
+body{
+    background-color: #222831;
+    color: #eeeeee;
+    font-size: 1.25rem;
+    font-family: 'Open Sans', sans-serif;
+}
+.bg {
+background-color: #00adb5;
+}
+
+.i-logo{
+max-width: 200px;
+height: auto;
+width: 100%;
+}
+.navbar-nav{
+  margin-left: auto;
+  
+}
+.navbar-toggler-icon{
+    background-image: url(https://mdbootstrap.com/img/svg/hamburger6.svg?color=000);
+    
+}
+button:focus,
+button:active{
+	border: #bc4749;
+	background:none;
+	outline:none;
+	padding:0;
+}
+    
+
+
+
+
+.container{
+    margin: auto;
+    margin-top: 100px;
+}
+i{
+    font-size: 30px;
+    color: #00adb5;
+}
+.section-v{
+    margin: auto;
+   text-align: center;
+   padding: 30px;
+}
+   
+
+.div-img{
+    height: auto;
+    width: 70%;
+    min-width: 300px;
+    
+}
+/*section price*/
+.services{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.pricecol{
+    background-color: hotpink;
+    border: yellow solid 2px;
+    margin: 10px;
+
+}
+/*footer*/
+
+.card-s{
+    width: 90%;
+    margin: auto;
+}
+    
+.card{
+    margin:10px;
+    
+}
+h5, li{
+   color: black;
+   text-align: center;
+}
+.icon{
+    display: inline-block;
+}
+.card-footer{
+    text-align: center;
+}
